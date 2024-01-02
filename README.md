@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - E-commerce product page
 
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
@@ -94,3 +95,10 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+The purpose of this project is to design and implement the functionality of a single product page for an e-commerce website. Users should be able to view product details, add the product to the cart, and optionally remove added items from the cart.
+
+
+E-Commerce Application
+This project is a solution for the "E-Commerce Single Item Page" JavaScript challenge from Frontend Mentor.
+>>>>>>> 83891dc3e636518e4f609f0c7757e4539a59d045
